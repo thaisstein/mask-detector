@@ -21,5 +21,5 @@ The dataset used is provided by Prajna Bhandary (https://github.com/prajnasb/). 
 
 ### Results
 - Below is a link to the video containing a live demonstration of the video results.
-[![Screen Shot 2023-11-04 at 6 47 55 PM](https://github.com/thaisstein/mask-detector/assets/52481495/9f92ac99-fde1-46cf-8ba6-597be5d8a996)](https://youtu.be/Z5UPBoSzV4s "Mask DEMO")
+[![Screen Shot 2023-11-04 at 6 47 55 PM](https://github.com/thaisstein/mask-detector/assets/52481495/9f92ac99-fde1-46cf-8ba6-597be5d8a996)](https://www.youtube.com/watch?v=Z5UPBoSzV4s "Screen Shot 2023-11-04 at 6 47 55 PM")
 
